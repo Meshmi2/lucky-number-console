@@ -1,0 +1,11 @@
+C:\Users\meshmi\source\repos\ConsoleAppDEMO\bin\Debug\netcoreapp2.2\Luckynumber.deps.json
+C:\Users\meshmi\source\repos\ConsoleAppDEMO\bin\Debug\netcoreapp2.2\Luckynumber.runtimeconfig.json
+C:\Users\meshmi\source\repos\ConsoleAppDEMO\bin\Debug\netcoreapp2.2\Luckynumber.runtimeconfig.dev.json
+C:\Users\meshmi\source\repos\ConsoleAppDEMO\bin\Debug\netcoreapp2.2\Luckynumber.dll
+C:\Users\meshmi\source\repos\ConsoleAppDEMO\bin\Debug\netcoreapp2.2\Luckynumber.pdb
+C:\Users\meshmi\source\repos\ConsoleAppDEMO\obj\Debug\netcoreapp2.2\Luckynumber.csproj.CoreCompileInputs.cache
+C:\Users\meshmi\source\repos\ConsoleAppDEMO\obj\Debug\netcoreapp2.2\Luckynumber.AssemblyInfoInputs.cache
+C:\Users\meshmi\source\repos\ConsoleAppDEMO\obj\Debug\netcoreapp2.2\Luckynumber.AssemblyInfo.cs
+C:\Users\meshmi\source\repos\ConsoleAppDEMO\obj\Debug\netcoreapp2.2\Luckynumber.dll
+C:\Users\meshmi\source\repos\ConsoleAppDEMO\obj\Debug\netcoreapp2.2\Luckynumber.pdb
+C:\Users\meshmi\source\repos\ConsoleAppDEMO\obj\Debug\netcoreapp2.2\Luckynumber.csprojAssemblyReference.cache

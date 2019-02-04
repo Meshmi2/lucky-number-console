@@ -1,0 +1,11 @@
+C:\Users\meshmi\source\repos\ConsoleAppDEMO\bin\Release\netcoreapp2.2\win-x86\Luckynumber.exe
+C:\Users\meshmi\source\repos\ConsoleAppDEMO\bin\Release\netcoreapp2.2\win-x86\Luckynumber.deps.json
+C:\Users\meshmi\source\repos\ConsoleAppDEMO\bin\Release\netcoreapp2.2\win-x86\Luckynumber.runtimeconfig.json
+C:\Users\meshmi\source\repos\ConsoleAppDEMO\bin\Release\netcoreapp2.2\win-x86\Luckynumber.runtimeconfig.dev.json
+C:\Users\meshmi\source\repos\ConsoleAppDEMO\bin\Release\netcoreapp2.2\win-x86\Luckynumber.dll
+C:\Users\meshmi\source\repos\ConsoleAppDEMO\bin\Release\netcoreapp2.2\win-x86\Luckynumber.pdb
+C:\Users\meshmi\source\repos\ConsoleAppDEMO\obj\Release\netcoreapp2.2\win-x86\Luckynumber.csproj.CoreCompileInputs.cache
+C:\Users\meshmi\source\repos\ConsoleAppDEMO\obj\Release\netcoreapp2.2\win-x86\Luckynumber.AssemblyInfoInputs.cache
+C:\Users\meshmi\source\repos\ConsoleAppDEMO\obj\Release\netcoreapp2.2\win-x86\Luckynumber.AssemblyInfo.cs
+C:\Users\meshmi\source\repos\ConsoleAppDEMO\obj\Release\netcoreapp2.2\win-x86\Luckynumber.dll
+C:\Users\meshmi\source\repos\ConsoleAppDEMO\obj\Release\netcoreapp2.2\win-x86\Luckynumber.pdb

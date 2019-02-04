@@ -1,0 +1,11 @@
+C:\Users\meshmi\source\repos\ConsoleAppDEMO\bin\Debug\netcoreapp2.2\ConsoleAppDEMO.deps.json
+C:\Users\meshmi\source\repos\ConsoleAppDEMO\bin\Debug\netcoreapp2.2\ConsoleAppDEMO.runtimeconfig.json
+C:\Users\meshmi\source\repos\ConsoleAppDEMO\bin\Debug\netcoreapp2.2\ConsoleAppDEMO.runtimeconfig.dev.json
+C:\Users\meshmi\source\repos\ConsoleAppDEMO\bin\Debug\netcoreapp2.2\ConsoleAppDEMO.dll
+C:\Users\meshmi\source\repos\ConsoleAppDEMO\bin\Debug\netcoreapp2.2\ConsoleAppDEMO.pdb
+C:\Users\meshmi\source\repos\ConsoleAppDEMO\obj\Debug\netcoreapp2.2\ConsoleAppDEMO.csprojAssemblyReference.cache
+C:\Users\meshmi\source\repos\ConsoleAppDEMO\obj\Debug\netcoreapp2.2\ConsoleAppDEMO.csproj.CoreCompileInputs.cache
+C:\Users\meshmi\source\repos\ConsoleAppDEMO\obj\Debug\netcoreapp2.2\ConsoleAppDEMO.AssemblyInfoInputs.cache
+C:\Users\meshmi\source\repos\ConsoleAppDEMO\obj\Debug\netcoreapp2.2\ConsoleAppDEMO.AssemblyInfo.cs
+C:\Users\meshmi\source\repos\ConsoleAppDEMO\obj\Debug\netcoreapp2.2\ConsoleAppDEMO.dll
+C:\Users\meshmi\source\repos\ConsoleAppDEMO\obj\Debug\netcoreapp2.2\ConsoleAppDEMO.pdb
